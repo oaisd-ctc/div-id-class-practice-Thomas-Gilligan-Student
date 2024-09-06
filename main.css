@@ -1,0 +1,34 @@
+.main-box {
+    height:100px;
+    width:100%;
+    margin:10px;
+    border-radius:10px;
+    background-color:blue;
+}
+#red-box {
+    background-color: red;
+}
+#yellow-box {
+    background-color: yellow;
+}
+#pink-box {
+    background-color: pink;
+}
+#green-box {
+    background-color: green;
+}
+#purple-box {
+    background-color: purple;
+}
+#orange-box {
+    background-color: orange;
+}
+#black-box {
+    background-color: black;
+}
+#coral-box {
+    background-color: coral;
+}
+#lightgray-box {
+    background-color: lightgray;
+}
